@@ -40,7 +40,7 @@ Docker + k8s
 - [Helm Chart install public source](/JSOFPsD3RW63Z1VMfz4yEA)
 
 ### kubernetes
-- [申請Let's encrypt(使用Certbot)](/1rQr-WhbRbS1RYRca0-QoA)
+- [申請Let's encrypt(使用Certbot)](/Certbot.md)
 
 #### Rancher
 - [使用Rancher部屬簡單的k8s集群](/K7w0KIOxTDuJu1DgbUP_yA)
